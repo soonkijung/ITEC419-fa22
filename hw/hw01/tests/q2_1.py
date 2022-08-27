@@ -1,4 +1,4 @@
-test = {   'name': 'q3_1_2',
+test = {   'name': 'q2_1',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': ">>> #It looks like you didn't give anything the name;\n"
                                                ">>> # seconds_in_a_decade. Maybe there's a typo, or maybe you ;\n"
@@ -22,6 +22,13 @@ test = {   'name': 'q3_1_2',
                                                '>>> # There were 2 leap years and 8 non-leap years in this period.;\n'
                                                '>>> # Leap years have 366 days instead of 365.;\n'
                                                '>>> seconds_in_a_decade != 315360000\n'
+                                               'True',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': ">>> # It looks like you didn't account for leap years.;\n"
+                                               '>>> # There were 2 leap years and 8 non-leap years in this period.;\n'
+                                               '>>> # Leap years have 366 days instead of 365.;\n'
+                                               '>>> seconds_in_a_decade == 315532800\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False}],
