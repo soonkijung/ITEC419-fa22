@@ -1,0 +1,65 @@
+year,home,score,away
+2022.0,Qatar,0–2,Ecuador
+2022.0,Senegal,0–2,Netherlands
+2022.0,Qatar,1–3,Senegal
+2022.0,Netherlands,1–1,Ecuador
+2022.0,Ecuador,1–2,Senegal
+2022.0,Netherlands,2–0,Qatar
+2022.0,England,6–2,Iran
+2022.0,United States,1–1,Wales
+2022.0,Wales,0–2,Iran
+2022.0,England,0–0,United States
+2022.0,Wales,0–3,England
+2022.0,Iran,0–1,United States
+2022.0,Argentina,1–2,Saudi Arabia
+2022.0,Mexico,0–0,Poland
+2022.0,Poland,2–0,Saudi Arabia
+2022.0,Argentina,2–0,Mexico
+2022.0,Poland,Match 39,Argentina
+2022.0,Saudi Arabia,Match 40,Mexico
+2022.0,Denmark,0–0,Tunisia
+2022.0,France,4–1,Australia
+2022.0,Tunisia,0–1,Australia
+2022.0,France,2–1,Denmark
+2022.0,Australia,Match 37,Denmark
+2022.0,Tunisia,Match 38,France
+2022.0,Germany,1–2,Japan
+2022.0,Spain,7–0,Costa Rica
+2022.0,Japan,0–1,Costa Rica
+2022.0,Spain,1–1,Germany
+2022.0,Japan,Match 43,Spain
+2022.0,Costa Rica,Match 44,Germany
+2022.0,Morocco,0–0,Croatia
+2022.0,Belgium,1–0,Canada
+2022.0,Belgium,0–2,Morocco
+2022.0,Croatia,4–1,Canada
+2022.0,Croatia,Match 41,Belgium
+2022.0,Canada,Match 42,Morocco
+2022.0,Switzerland,1–0,Cameroon
+2022.0,Brazil,2–0,Serbia
+2022.0,Cameroon,3–3,Serbia
+2022.0,Brazil,1–0,Switzerland
+2022.0,Serbia,Match 47,Switzerland
+2022.0,Cameroon,Match 48,Brazil
+2022.0,Uruguay,0–0,South Korea
+2022.0,Portugal,3–2,Ghana
+2022.0,South Korea,2–3,Ghana
+2022.0,Portugal,2–0,Uruguay
+2022.0,Ghana,Match 45,Uruguay
+2022.0,South Korea,Match 46,Portugal
+2022.0,Netherlands,Match 49,United States
+2022.0,Winners Group C,Match 50,Runners-up Group D
+2022.0,Winners Group D,Match 52,Runners-up Group C
+2022.0,England,Match 51,Senegal
+2022.0,Winners Group E,Match 53,Runners-up Group F
+2022.0,Winners Group G,Match 54,Runners-up Group H
+2022.0,Winners Group F,Match 55,Runners-up Group E
+2022.0,Winners Group H,Match 56,Runners-up Group G
+2022.0,Winners Match 53,Match 58,Winners Match 54
+2022.0,Winners Match 49,Match 57,Winners Match 50
+2022.0,Winners Match 55,Match 60,Winners Match 56
+2022.0,Winners Match 51,Match 59,Winners Match 52
+2022.0,Winners Match 57,Match 61,Winners Match 58
+2022.0,Winners Match 59,Match 62,Winners Match 60
+2022.0,Losers Match 61,Match 63,Losers Match 62
+2022.0,Winners Match 61,Match 64,Winners Match 62
